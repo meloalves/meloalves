@@ -2,9 +2,9 @@
 <ul>
   <li>Analysis and Systems Development student.</li>
   <li>Front-End developer from Brazil.</li>
-  <li>
-    <img src="https://github.com/meloalves/meloalves/assets/118017932/df0fa888-6a92-4099-8cb5-ed39c7d27c41" width="200" />
-  </li>
+
+  <img src="https://github.com/meloalves/meloalves/assets/118017932/df0fa888-6a92-4099-8cb5-ed39c7d27c41" width="50" />
+
    
   
 </ul>
