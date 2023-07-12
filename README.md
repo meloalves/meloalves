@@ -4,7 +4,8 @@
   <li>Front-End developer from Brazil.</li>
   <br>
   <img src="https://github.com/meloalves/meloalves/assets/118017932/df0fa888-6a92-4099-8cb5-ed39c7d27c41" width="30" />
-  <img src="https://github.com/meloalves/meloalves/assets/118017932/b3a8eb18-3b33-4002-a958-b12954582aab" width="30" />
+  <img src="![image](https://github.com/meloalves/meloalves/assets/118017932/9a302185-f8b3-48b5-b407-ad65f6d8512f)
+" width="30" />
 
    
   
