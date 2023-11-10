@@ -9,10 +9,10 @@
   <img src="https://github.com/meloalves/meloalves/assets/118017932/9a302185-f8b3-48b5-b407-ad65f6d8512f" width="30" />
   <img src="https://github.com/meloalves/meloalves/assets/118017932/e34b86fe-4621-4d13-a2c6-43da8ceb8cd6" width="30" />
   
-</ul>
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meloalves&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meloalves&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+</ul>
 
